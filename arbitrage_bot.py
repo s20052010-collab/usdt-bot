@@ -1,7 +1,3 @@
-python-telegram-bot==20.7
-aiohttp==3.9.1
-asyncio
-
 #!/usr/bin/env python3
 """
 БОТ 2: P2P АРБИТРАЖ USDT
